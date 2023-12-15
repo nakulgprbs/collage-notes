@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    background-color:blueviolet;
+    width: auto;
+}
+header{
+    text-align: right;
+    background-color: grey;
+}
+footer{
+    text-align: center;
+    background-color: beige;
+}
+@media screen { width: 50en;
+    
+}
